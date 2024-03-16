@@ -66,8 +66,5 @@ Here's our demo video
 ## Recognition
 This repository/project is a submission to [MLH HackFit](https://organize.mlh.io/participants/events/7563-hackfit).
 
-<center>
-<footer>
-Made with ❤️
-</footer>
-</center>
+## Update
+This Project won 3rd overall globally in HackFit!
